@@ -4,7 +4,7 @@
 
 Curso de introducción a los algoritmos de programación y el lenguaje Python orientado a la automatización de procesos.
 
-Profesor: [Javier Guerra](https://javguerra.github.io/)
+Profesor: [Javier Guerra](https://javguerra.github.io/)  
 Junio 2023. Duración: 2 semanas - Fundación GoodJob
 
 # Índice
